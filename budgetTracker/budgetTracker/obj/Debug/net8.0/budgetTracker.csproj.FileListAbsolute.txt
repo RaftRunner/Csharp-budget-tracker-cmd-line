@@ -1,0 +1,14 @@
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\bin\Debug\net8.0\budgetTracker.exe
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\bin\Debug\net8.0\budgetTracker.deps.json
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\bin\Debug\net8.0\budgetTracker.runtimeconfig.json
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\bin\Debug\net8.0\budgetTracker.dll
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\bin\Debug\net8.0\budgetTracker.pdb
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.dll
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\refint\budgetTracker.dll
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.pdb
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\budgetTracker.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\budgetTracker\budgetTracker\obj\Debug\net8.0\ref\budgetTracker.dll
